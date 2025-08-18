@@ -6,7 +6,7 @@
 // empty array
 $arrayOfFruits = [];
 // Intialize
-$arrayOfFruits = ['Apple', 'Orange', 'Banana','Avocado'];
+$arrayOfFruits = ['Apple', 'Orange', 'Banana','Avocado']; 
 //  Adding Items
 $arrayOfFruits[] =  'Manga';
 // Updating Items 
