@@ -1,0 +1,61 @@
+functional 
+    -> No Object involved
+    -> only set of functions e.g function getSum($param1, $param2)
+<?php
+
+function getSum($param1, $param2){
+    return $param1 + $param2;
+}
+getSum(1,2); // 3
+
+
+OOP
+ - Object Oriented Programming
+ - uses  " -> " symbol to access items
+ - class, methods, public, private, protected, constructors, interface, abstracts
+ - PHP can do Functional kag OOP at the same time
+ - Reusable object
+
+class 
+
+class <class Name>
+ -  class Names do not need to match sa fileName
+ - Usually AlphaNumeric preferred Alphabets only
+ - e.g class UserManagement , class UserManagement1
+
+ methods 
+  - the same with functions however, in OOP it is called
+  methods.
+php8 you can use datatypes
+int, float, string,array
+
+visibility Access Modifiers()
+ - Declare what is accessible and what is not outside the 
+ class such as variables and methods
+ e.g 
+    private (within the class) ,
+    public (in and out of the class),
+    protected (only to child class)
+
+ constructors
+ - Loaded every class Initialization
+ - uses __construct keyword
+ - always public
+  - new ClassName(<constructor Params>)
+
+
+$this
+- refers to current class
+- uses  " -> " symbol to access items
+
+
+
+
+
+
+
+
+
+
+
+

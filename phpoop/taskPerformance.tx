@@ -1,0 +1,29 @@
+Before Saturday, October 18, 12 midnight
+------------------------------------------------
+Create a Simple USer Registration using PHP and HTML
+no Database Needed.
+Use Functional Programming only no OOP.
+
+The form includes
+First Name < input>,
+age < input>,
+Gender <dropdown>
+QUote in life <string>
+<button> it is up to you ang labels kag names.
+
+use POST
+make sure all fiels is required ,not empty, before sending.
+after sending the response should be
+You are <firstname>, <age> year-old <gender>.
+Your motto in life is : <motto>
+explain the your code via comments.
+
+Upload github
+ang send the link to ELMS 
+which I will provide sa GC ta.
+
+
+
+
+
+
